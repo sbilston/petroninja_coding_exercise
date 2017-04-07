@@ -1,0 +1,35 @@
+{
+  "total": 5,
+  "towns": [
+    {
+      "id": "100",
+      "name": "Red Deer",
+      "population": 100418,
+      "flag": "https://upload.wikimedia.org/wikipedia/en/c/c0/Flag_of_Red_Deer%2C_AB.png"
+    },
+    {
+      "id": "102",
+      "name": "Grand Prairie",
+      "population": 63166,
+      "flag": "https://upload.wikimedia.org/wikipedia/en/0/01/GrandePrairie-flag.jpg"
+    },
+    {
+      "id": "104",
+      "name": "Calgary",
+      "population": 1239220,
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Calgary%2C_Alberta.svg/800px-Flag_of_Calgary%2C_Alberta.svg.png"
+    },  
+    {
+      "id": "106",
+      "name": "Edmonton",
+      "population": 932546,
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Flag_of_Edmonton.svg/664px-Flag_of_Edmonton.svg.png"
+    },  
+    {
+      "id": "108",
+      "name": "Pincher Creek",
+      "population": 3642,
+      "flag": "https://upload.wikimedia.org/wikipedia/en/6/69/Pincher_Creek%2C_Alberta_logo.png"
+    } 
+  ]
+}
